@@ -9,7 +9,7 @@
 
 ### 🔐 What I Build
 
-I build security tools and systems that solve real-world problems — from scanning networks for vulnerabilities to detecting crypto primitives in firmware binaries using ML.
+I build security tools and systems that solve real-world problems, from scanning networks for vulnerabilities to detecting crypto primitives in firmware binaries using ML.
 
 ---
 
