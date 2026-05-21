@@ -69,9 +69,7 @@ I build security tools and systems that solve real-world problems, from scanning
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drago1314&layout=compact&hide_border=true&bg_color=00000000&title_color=38d9a9&text_color=888888" height="170" alt="Top Languages" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=Drago1314&hide_border=true&background=00000000&ring=38d9a9&fire=38d9a9&currStreakLabel=38d9a9&sideLabels=888888&currStreakNum=888888&sideNums=888888&dates=888888" alt="GitHub Streak" />
-</p>
+
 
 ---
 
