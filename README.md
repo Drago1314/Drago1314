@@ -64,9 +64,9 @@ I build security tools and systems that solve real-world problems, from scanning
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Drago1314&show_icons=true&hide_border=true&bg_color=00000000&title_color=38d9a9&icon_color=38d9a9&text_color=888888&ring_color=38d9a9" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Drago1314&show_icons=true&hide_border=true&bg_color=00000000&title_color=38d9a9&icon_color=38d9a9&text_color=888888&ring_color=38d9a9" height="170" alt="GitHub Stats" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Drago1314&layout=compact&hide_border=true&bg_color=00000000&title_color=38d9a9&text_color=888888" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Drago1314&layout=compact&hide_border=true&bg_color=00000000&title_color=38d9a9&text_color=888888" height="170" alt="Top Languages" />
 </p>
 
 <p align="center">
