@@ -2,7 +2,7 @@
 <h3 align="center">Cybersecurity Enthusiast · IoT Developer · Blockchain Explorer</h3>
 
 <p align="center">
-  <em>B.E. Computer Science — M.H. Saboo Siddik College of Engineering, Mumbai</em>
+  <em>B.E. Computer Science - M.H. Saboo Siddik College of Engineering, Mumbai</em>
 </p>
 
 ---
